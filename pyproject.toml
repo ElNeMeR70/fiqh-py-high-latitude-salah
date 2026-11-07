@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-high-latitude-salah"
+version = "1.0.0"
+description = "High-Latitude Abnormal Night Fajr/Isha Estimation Engine (معالج مواقيت الصلاة في المناطق القطبية والعروض العليا)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
